@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavansai505
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on web back-end
 - 📫 How to reach me pavansaibarugala@gmail.com
 
